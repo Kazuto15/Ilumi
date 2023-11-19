@@ -50,6 +50,47 @@
                         </div>
                 </div>  
             </div>
+            
+            
+            <div class="slogan">
+
+                <div class="armazem-text">
+                    <div class="box-item-text-img">
+                        <img src="./../img/logo04.svg" alt="" class="logo-armazem">
+                        <div class="box-text-item">
+                            <h2>Uma equipe apaixonada por tecnologia</h2>
+                            <p>Somos a ILLUMI, onde a tecnologia encontra a 
+                                inovação para iluminar o futuro. Somos uma 
+                                empresa apaixonada por desafios tecnológicos 
+                                e dedicada a criar soluções que impulsionam a 
+                                transformação digital.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="quem-somos">
+                    
+                        
+                            
+                    
+                    <div class="items-4">
+                        <div class="item-quemSomos">
+                            <div class="box-quem-somos">
+                                <div class="texto-quem-somos">
+                                    <p>Quem somos</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="items-5">
+                        <div class="item-quemSomos">
+                            <div class="box-img-quemSomos">
+                                <img src="./../img/quemsomos.jpg" alt="" class="img-quemSomos">
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
         </div>
     
 </body>
