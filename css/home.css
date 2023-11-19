@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0;
+    background: #fff;
+    max-width: 100%;
+    height: 100vh;
+    margin-top: 80px;
+    padding: 0;
+}
+.box-illumi{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.item-1{
+    width: 50%;
+    background: transparent;
+    margin-right: 30px;
+}
+.textos{
+    padding: 0;
+    flex-direction: column;
+}
+.illumi-unique{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    background: #fff;
+    margin-bottom: 10%;
+}
+.illumi{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 60%;
+    background: transparent;
+}
+.illumi h1{
+    position: relative;
+    font-size: 8vw;
+    margin: 0;
+    font-weight: 900;
+    color: #2559BF;
+}
+.illumi p{
+    font-weight: 600;
+    font-size: 1vw;
+    margin-left: 2%;
+    letter-spacing: 1px;
+}
+
+
+.criatividade-unique{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    background: #2559BF;
+    margin-bottom: 12%;
+}
+.criatividade{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 50%;
+    background: transparent;
+    margin: 7% 3% 7% 0px;
+    color: #fff;
+
+}
+.criatividade p{
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Opcional: para alinhar o texto horizontalmente */
+    margin: 0; /* Pode ser necessário remover a margem padrão do parágrafo */
+    font-size: 1.2vw;
+}
+
+
+
+
+
+.comece-unique{
+    width: 68%;
+    display: flex;
+    justify-content: flex-end;
+    background: #2559BF;
+    margin-bottom: 0%;
+}
+.comece{
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    margin: 2% 2% 2% 0px;
+    background: transparent;
+    color: #fff;
+}
+.comece p {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Opcional: para alinhar o texto horizontalmente */
+    margin: 0; /* Pode ser necessário remover a margem padrão do parágrafo */
+    font-size: 1.2vw;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.item-2{
+    width: 50%;
+    display: flex;
+    align-items: end;
+    background: green;
+    margin-left: 30px;
+}
+.box-imagem{
+    display: flex;
+    justify-content:flex-start;
+    background: #2559BF;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.box-imagem img{ 
+    height: 100%;
+    width: 113%;
+    margin-left: -45%;
+}
+
+
+
+
+
+
+
