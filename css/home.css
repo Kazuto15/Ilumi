@@ -2,6 +2,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+
 }
 .container{
     margin: 0;
@@ -127,11 +129,6 @@
     margin-left: -45%;
 }
 
-
-
-
-
-
 .slogan{
     z-index: 0;
     background: transparent;
@@ -189,6 +186,7 @@
     width: 25vw;
     margin-right: 3%;
     
+    
 }
 .items-4{
     background: transparent;
@@ -234,4 +232,154 @@
     
 }
 
+.a1{
+    max-width: 100%;
+    height: 100%;
+    background-color: white;
+    position: relative;
+}
+.faixa-texto{
+    margin-top: 10vh;
+    background-color: rgb(19, 60, 155);
+}
+.texto-faixa{
+    font-size: 1.1vw;
+    color: whitesmoke;
+    text-align: left;
+    
+    padding: 1.5vw;
+    padding-left: 29vw;
+    padding-right: 29vw;
+}
+.faixa-cards{
+    display: none;
+    position: relative;
+    margin-top: 9%;
+    background-color: rgb(19, 60, 155);
+    z-index: 0;
+    overflow: visible;
+    padding: 2vw;
+}
+.container-cards{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    z-index: 1;
+}
+.card{
+    width: 25vw;
+    height: 25vw;
+    margin: 5px;
+    padding-top: 1.2vw;
+    border-radius: 0;
+    z-index: 2;
+    margin-top: -5vw;
+    margin-bottom: 10%;
+    height: 17rem;
+    margin-left: 1%;
+    margin-right: 1%;
+    box-shadow: 2px 1px 15px ;
+}
+@media(max-width:1300px){
+    .container-cards{
+        padding-left: 30vh;
+        padding-right: 30vh;
+    }
+    .card{
+        margin-left: 0.2%;
+        margin-right: 0.2%;
+    }
+}
+.card-bottom{
+    margin-bottom: -5vw;
+}
+.card-img-top{
+    position: absolute;
+    align-self: center;
+    border: 5px solid rgb(28, 75, 173);
+    border-radius: 100%;
+    width: 7vw;
+    height: 6vw;
+}
+.card-body{
+    text-align: center;
+}
+.card-text{
+    color: rgb(126, 126, 126);
+}
+@media (max-width: 1324px){
+    #carouselExampleIndicators{
+        display: block;
+    }
+    .faixa-cards{
+        display: none;
+    }
 
+}
+@media (min-width:1325px){
+    #carouselExampleIndicators{
+        display: none;
+    }
+    .faixa-cards{
+        display: block;
+    }
+    
+}
+.carousel-inner h1,
+.carousel-inner h6 {
+    max-width: 100%;
+    font-size: 2vw; /* Ajuste conforme necessário */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#carouselExampleIndicators{
+    margin-top: 9%;
+    max-width: 600rem;
+    height:  auto;
+    box-shadow: 2px 2px 10px;
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    width: 50vw;
+}
+
+.carousel-inner{
+    height: 50vh;
+    width: 50vw;
+
+}
+@media (max-width: 1324px){
+   .carousel-item h1,.carousel-item h6{
+    font-size: large;
+   }
+
+}
+@media (max-width: 450px){
+    .carousel-inner{
+    height: -60vh;
+    width: -50vw;
+    }
+   
+
+}
+
+@media (min-width:600px){
+    .carousel-inner{
+        background-color: #2559BF;
+        height: 60vw;
+    }
+}
+@media (min-width: 936px){
+    .carousel-inner{
+        background-color: #51bf25;
+        height: 60vw;
+    }
+}
+img{
+    display: none;
+}
