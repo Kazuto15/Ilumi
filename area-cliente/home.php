@@ -53,7 +53,6 @@
             
             
             <div class="slogan">
-
                 <div class="armazem-text">
                     <div class="box-item-text-img">
                         <img src="./../img/logo04.svg" alt="" class="logo-armazem">
@@ -68,10 +67,6 @@
                     </div>
                 </div>
                 <div class="quem-somos">
-                    
-                        
-                            
-                    
                     <div class="items-4">
                         <div class="item-quemSomos">
                             <div class="box-quem-somos">
@@ -91,6 +86,7 @@
                     
                 </div>
             </div>
+
         </div>
     
 </body>

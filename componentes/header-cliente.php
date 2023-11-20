@@ -27,12 +27,12 @@
             <a href="#" class="btnFechar" onclick="fecharNav()"><i class="fa-solid fa-xmark"></i></a>
         </div>
         
-        <a href="#">Button</a>
-        <a href="#">Button</a>
-        <a href="#">Button</a>
-        <a href="#">Button</a>
-        <a href="#">Button</a>
-        <a href="#">Button</a>
+        <a href="#">Home</a>
+        <a href="#">Sobre</a>
+        <a href="#">Equipe</a>
+        <a href="#">Projetos</a>
+        <a href="#">Contato</a>
+        <a href="#">Entrar</a>
     </aside> 
     <script src="./../js/menu-oculto.js"></script>
 </header>
