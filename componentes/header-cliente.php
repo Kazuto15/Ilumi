@@ -6,10 +6,10 @@
                 
                 <div class="btn-navegator">
                     <img src="./../img/logo04.svg" alt="logo" class="logo-nav">
-                    <a href="#">Home</a>
-                    <a href="#">Sobre</a>
-                    <a href="#">Equipe</a>
-                    <a href="#">Projetos</a>
+                    <a href="#home">Home</a>
+                    <a href="#sobre">Sobre</a>
+                    <a href="#equipe">Equipe</a>
+                    <a href="#projetos">Projetos</a>
                     <a href="#">Contato</a>
                     <a href="#" class="btn-entrar">Entrar</a>
                 </div>
