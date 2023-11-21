@@ -56,7 +56,6 @@
             </div>
         </div>
 
-
         <div class="slogan">
             <div class="armazem-text">
                 <div class="box-item-text-img">
@@ -102,198 +101,223 @@
                         o caminho da transformação tecnológica.</p>
                 </div>
             </div>
-
-            <div class="faixa-cards">
-                <div class="container-cards row">
-                    <div class="card card-top" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Felipe.jfif" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Felipe</h5>
-                            <p class="card-text">Designer</p>
+            <div class="cards-box">
+                <div class="box-cards-members">
+                    <div class="card-mod-spac">
+                        <div class="cards-1">
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Felipe2.jpg" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Felipe</h5>
+                                    <p>Designer</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/heitor.enc" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Heitor</h5>
+                                    <p>Front-end</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Kauã.jpg" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Kauã</h5>
+                                    <p>Back-end</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Marina2.jfif" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Mariana</h5>
+                                    <p>DBA</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Marley.jpg" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Marley</h5>
+                                    <p>Front-end</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/MateusH.jfif" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Matheus H.</h5>
+                                    <p>Back-end</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cards-2">
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/MatheusC.enc" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Matheus C.</h5>
+                                    <p>Back-end</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/MatheusG.enc" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Matheus G.</h5>
+                                    <p>Front-end</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/MatheusM.enc" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Matheus M.</h5>
+                                    <p>Full-Stack</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Milena.jpg" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Milena</h5>
+                                    <p>Analista</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Renan2.jfif" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Renan</h5>
+                                    <p>Gerente de Projeto</p>
+                                </div>
+                            </div>
+                            <div class="cards">
+                                <div class="box-img">
+                                    <img src="./../img/integrantes/Vitor.jfif" alt="">
+                                </div>
+                                <div class="textos">
+                                    <h5>Vitor</h5>
+                                    <p>Designer</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="card card-top" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/heitor.enc">
-                        <div class="card-body">
-                            <h5 class="card-title">Heitor</h5>
-                            <p class="card-text">Back-End</p>
-                        </div>
-                    </div>
-                    <div class="card card-top" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Kauã.jpg" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Kauã</h5>
-                            <p class="card-text">Full-Stack</p>
-                        </div>
-                    </div>
-                    <div class="card card-top" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Marina2.jfif" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Mariana</h5>
-                            <p class="card-text">Cargo</p>
-                        </div>
-                    </div>
-                    <div class="card card-top" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Marley.jpg" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Marley</h5>
-                            <p class="card-text">Front-End</p>
-                        </div>
-                    </div>
-                    <div class="card card-top" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/MateusH.jfif" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Mateus Henrique</h5>
-                            <p class="card-text">Back-End</p>
-                        </div>
-                    </div>
-
-                    <div class="card card-bottom" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/MatheusC.enc" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Matheus Campos</h5>
-                            <p class="card-text">Back-end</p>
-                        </div>
-                    </div>
-                    <div class="card card-bottom" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/MatheusG.enc" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Matheus Gomes</h5>
-                            <p class="card-text">Front-End</p>
-                        </div>
-                    </div>
-                    <div class="card card-bottom" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/MatheusM.enc" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Matheus Merlim</h5>
-                            <p class="card-text">Cargo</p>
-                        </div>
-                    </div>
-                    <div class="card card-bottom" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Milena.jpg" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Milena</h5>
-                            <p class="card-text">Analista</p>
-                        </div>
-                    </div>
-                    <div class="card card-bottom" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Renan2.jfif" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Renan</h5>
-                            <p class="card-text">Gerente de projeto</p>
-                        </div>
-                    </div>
-                    <div class="card card-bottom" style="width: 25rem;">
-                        <img class="card-img-top" src="../img/integrantes/Vitor.jfif" alt="">
-                        <div class="card-body">
-                            <h5 class="card-title">Vitor</h5>
-                            <p class="card-text">Designer</p>
-                        </div>
-                    </div>
-
                 </div>
             </div>
-        
-
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-               <!--  <ol class="carousel-indicators">
+                <!--  <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                 </ol> -->
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-50 rounded-circle mx-auto " style="border: 5px solid rgb(28, 75, 173);" 
-                        src="../img/integrantes/Kauã.jpg" alt="First slide">
+                        <img class="img-carousel d-block w-50 rounded-circle mx-auto my-4 "  
+                        src="../img/integrantes/Felipe2.jpg" alt="First slide">
                         <div class="text-center">
                             <h1>Felipe</h1>
                             <h6 class="card-text">Designer</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/heitor.enc" alt="Second slide">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/heitor.enc" alt="Second slide">
                         <div class="text-center">
                             <h1>Heitor</h1>
                             <h6>Front-End</h6>
                         </div>
                     </div>
                     <div class="carousel-item ">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/Kauã.jpg" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/Kauã.jpg" alt="Third slide">
+                            <div class="text-center">
                             <h1>Kauã</h1>
                             <h6 class="card-text">Back-End</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/Marina2.jfif" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/Marina2.jfif" alt="Third slide">
+                            <div class="text-center">
                             <h1>Mariana</h1>
                             <h6 class="card-text">DBA</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/Marley.jpg" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/Marley.jpg" alt="Third slide">
+                            <div class="text-center">
                             <h1>Marley</h1>
                             <h6 class="card-text">Front-end</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/MateusH.jfif" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/MateusH.jfif" alt="Third slide">
+                            <div class="text-center">
                             <h1>Mateus Henrique</h1>
                             <h6 class="card-text">Back-End</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/MatheusC.enc" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/MatheusC.enc" alt="Third slide">
+                            <div class="text-center">
                             <h1>Matheus Campos</h1>
                             <h6 class="card-text">Back-End</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/MatheusG.enc" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/MatheusG.enc" alt="Third slide">
+                            <div class="text-center">
                             <h1>Matheus Gomes</h1>
                             <h6 class="card-text">Front-End</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/MatheusM.enc" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/MatheusM.enc" alt="Third slide">
+                            <div class="text-center">
                             <h1>Matheus Merlim</h1>
                             <h6 class="card-text">Back-End</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/Milena.jpg" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/Milena.jpg" alt="Third slide">
+                            <div class="text-center">
                             <h1>Milena</h1>
                             <h6 class="card-text">Analista</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/Renan2.jfif" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"  
+                            src="../img/integrantes/Renan2.jfif" alt="Third slide">
+                            <div class="text-center">
                             <h1>Renan</h1>
                             <h6 class="card-text">Gerente de projeto</h6>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-50 rounded-circle mx-auto my-4" style="border: 5px solid rgb(28, 75, 173);" 
-                         src="../img/integrantes/Vitor.jfif" alt="Third slide">
-                         <div class="text-center">
+                        <img class="d-block w-50 rounded-circle mx-auto my-4"
+                            src="../img/integrantes/Vitor.jfif" alt="Third slide">
+                            <div class="text-center">
                             <h1>Vitor</h1>
                             <h6 class="card-text">Designer</h6>
                         </div>
@@ -310,6 +334,8 @@
                 </button>
             </div>
         </div>
+
+    </div>
 
 
 
